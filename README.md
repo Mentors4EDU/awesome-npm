@@ -28,3 +28,4 @@
 26. [torrent-discovery](https://www.npmjs.com/package/torrent-discovery)
 27. [js-3d-model-viewer](https://www.npmjs.com/package/js-3d-model-viewer)
 28. [3d-model-converter](https://www.npmjs.com/package/3d-model-converter)
+29. [escrow-service-generator](https://www.npmjs.com/package/escrow-service-generator)
