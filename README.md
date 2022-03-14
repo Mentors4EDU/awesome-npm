@@ -15,7 +15,7 @@
 2. [less](https://www.npmjs.com/package/less)
 
 ### Software Engineering 🔣
-2. [log](https://www.npmjs.com/package/log)
+3. [log](https://www.npmjs.com/package/log)
 
 ---
 
