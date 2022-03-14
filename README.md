@@ -2,7 +2,7 @@
 
 ### IT 🧑‍💻
 
-### DevOps
+### DevOps ⌨️
 
 ### Software 💽
 
