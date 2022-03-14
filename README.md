@@ -8,7 +8,7 @@
 
 ### Blockchain ₿
 
-### Data Science
+### Data Science 📊
 
 ### Web Development
 
