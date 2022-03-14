@@ -1,18 +1,18 @@
 # awesome npm [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Mentors4EDU/awesome-python)
 
-IT
+### IT
 
-DevOps
+### DevOps
 
-Software
+### Software
 
-Blockchain
+### Blockchain
 
-Data Science
+### Data Science
 
-Web Development
+### Web Development
 
-Software Engineering
+### Software Engineering
 
 1. [log](https://www.npmjs.com/package/log)
 2. [rxjs](https://www.npmjs.com/package/rxjs)
