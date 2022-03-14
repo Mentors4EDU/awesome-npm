@@ -6,7 +6,7 @@
 
 ### Software 💽
 
-### Blockchain
+### Blockchain ₿
 
 ### Data Science
 
