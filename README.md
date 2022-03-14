@@ -10,9 +10,9 @@
 
 ### Data Science 📊
 
-### Web Development
+### Web Development 🌐
 
-### Software Engineering
+### Software Engineering 🔣
 
 1. [log](https://www.npmjs.com/package/log)
 2. [rxjs](https://www.npmjs.com/package/rxjs)
