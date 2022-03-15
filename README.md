@@ -9,6 +9,7 @@
 ### Blockchain ₿
 
 ### Data Science 📊
+1. [d3-3d](https://www.npmjs.com/package/d3-3d)
 
 ### Web Development 🌐
 1. [rxjs](https://www.npmjs.com/package/rxjs)
@@ -19,11 +20,10 @@
 ### Software Engineering 🔣
 3. [log](https://www.npmjs.com/package/log)
 4. [axios](https://www.npmjs.com/package/axios)
+5. [async](https://www.npmjs.com/package/async)
 
 ---
 
-7. [async](https://www.npmjs.com/package/async)
-8. [d3-3d](https://www.npmjs.com/package/d3-3d)
 9. [colors](https://www.npmjs.com/package/colors)
 10. [shelljs](https://www.npmjs.com/package/shelljs)
 11. [debug](https://www.npmjs.com/package/debug)
