@@ -3,8 +3,11 @@
 ### IT 🧑‍💻
 
 ### DevOps ⌨️
+1. [debug](https://www.npmjs.com/package/debug)
+2. [shelljs](https://www.npmjs.com/package/shelljs)
 
 ### Software 💽
+1. [colors](https://www.npmjs.com/package/colors)
 
 ### Blockchain ₿
 
@@ -24,9 +27,6 @@
 
 ---
 
-9. [colors](https://www.npmjs.com/package/colors)
-10. [shelljs](https://www.npmjs.com/package/shelljs)
-11. [debug](https://www.npmjs.com/package/debug)
 12. [croppr](https://www.npmjs.com/package/croppr)
 13. [mocha](https://www.npmjs.com/package/mocha)
 14. [dbd.db](https://www.npmjs.com/package/dbd.db)
