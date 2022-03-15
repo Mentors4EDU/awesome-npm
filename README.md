@@ -7,23 +7,23 @@
 2. [shelljs](https://www.npmjs.com/package/shelljs)
 
 ### Software 💽
-1. [colors](https://www.npmjs.com/package/colors)
+3. [colors](https://www.npmjs.com/package/colors)
 
 ### Blockchain ₿
 
 ### Data Science 📊
-1. [d3-3d](https://www.npmjs.com/package/d3-3d)
+4. [d3-3d](https://www.npmjs.com/package/d3-3d)
 
 ### Web Development 🌐
-1. [rxjs](https://www.npmjs.com/package/rxjs)
-2. [less](https://www.npmjs.com/package/less)
-3. [tone](https://www.npmjs.com/package/tone)
-4. [react](https://www.npmjs.com/package/react)
+5. [rxjs](https://www.npmjs.com/package/rxjs)
+6. [less](https://www.npmjs.com/package/less)
+7. [tone](https://www.npmjs.com/package/tone)
+8. [react](https://www.npmjs.com/package/react)
 
 ### Software Engineering 🔣
-3. [log](https://www.npmjs.com/package/log)
-4. [axios](https://www.npmjs.com/package/axios)
-5. [async](https://www.npmjs.com/package/async)
+9. [log](https://www.npmjs.com/package/log)
+10. [axios](https://www.npmjs.com/package/axios)
+11. [async](https://www.npmjs.com/package/async)
 
 ---
 
