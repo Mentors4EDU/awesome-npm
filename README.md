@@ -14,14 +14,14 @@
 1. [rxjs](https://www.npmjs.com/package/rxjs)
 2. [less](https://www.npmjs.com/package/less)
 3. [tone](https://www.npmjs.com/package/tone)
+4. [react](https://www.npmjs.com/package/react)
 
 ### Software Engineering 🔣
 3. [log](https://www.npmjs.com/package/log)
+4. [axios](https://www.npmjs.com/package/axios)
 
 ---
 
-5. [react](https://www.npmjs.com/package/react)
-6. [axios](https://www.npmjs.com/package/axios)
 7. [async](https://www.npmjs.com/package/async)
 8. [d3-3d](https://www.npmjs.com/package/d3-3d)
 9. [colors](https://www.npmjs.com/package/colors)
