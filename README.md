@@ -8,6 +8,7 @@
 
 ### Software 💽
 3. [colors](https://www.npmjs.com/package/colors)
+4. [croppr](https://www.npmjs.com/package/croppr)
 
 ### Blockchain ₿
 
@@ -27,7 +28,6 @@
 
 ---
 
-12. [croppr](https://www.npmjs.com/package/croppr)
 13. [mocha](https://www.npmjs.com/package/mocha)
 14. [dbd.db](https://www.npmjs.com/package/dbd.db)
 15. [cesium](https://www.npmjs.com/package/cesium)
