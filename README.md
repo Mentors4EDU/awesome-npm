@@ -10,6 +10,7 @@
 ### Software 💽
 4. [colors](https://www.npmjs.com/package/colors)
 5. [croppr](https://www.npmjs.com/package/croppr)
+6. [threeify](https://www.npmjs.com/package/threeify)
 
 ### Blockchain ₿
 
@@ -31,7 +32,6 @@
 16. [dbd.db](https://www.npmjs.com/package/dbd.db)
 
 --- 
-17. [threeify](https://www.npmjs.com/package/threeify)
 18. [express](https://www.npmjs.com/package/express)
 19. [minimist](https://www.npmjs.com/package/minimist)
 20. [quora-api](https://www.npmjs.com/package/quora-api)
