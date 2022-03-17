@@ -13,18 +13,18 @@
 ### Blockchain ₿
 
 ### Data Science 📊
-4. [d3-3d](https://www.npmjs.com/package/d3-3d)
+5. [d3-3d](https://www.npmjs.com/package/d3-3d)
 
 ### Web Development 🌐
-5. [rxjs](https://www.npmjs.com/package/rxjs)
-6. [less](https://www.npmjs.com/package/less)
-7. [tone](https://www.npmjs.com/package/tone)
-8. [react](https://www.npmjs.com/package/react)
+6. [rxjs](https://www.npmjs.com/package/rxjs)
+7. [less](https://www.npmjs.com/package/less)
+8. [tone](https://www.npmjs.com/package/tone)
+9. [react](https://www.npmjs.com/package/react)
 
 ### Software Engineering 🔣
-9. [log](https://www.npmjs.com/package/log)
-10. [axios](https://www.npmjs.com/package/axios)
-11. [async](https://www.npmjs.com/package/async)
+10. [log](https://www.npmjs.com/package/log)
+11. [axios](https://www.npmjs.com/package/axios)
+12. [async](https://www.npmjs.com/package/async)
 
 ---
 
