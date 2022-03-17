@@ -14,6 +14,7 @@
 
 ### Data Science 📊
 5. [d3-3d](https://www.npmjs.com/package/d3-3d)
+6. [cesium](https://www.npmjs.com/package/cesium)
 
 ### Web Development 🌐
 6. [rxjs](https://www.npmjs.com/package/rxjs)
@@ -29,8 +30,6 @@
 14. [dbd.db](https://www.npmjs.com/package/dbd.db)
 
 ---
-
-15. [cesium](https://www.npmjs.com/package/cesium)
 16. [inquirer](https://www.npmjs.com/package/inquirer)
 17. [threeify](https://www.npmjs.com/package/threeify)
 18. [express](https://www.npmjs.com/package/express)
