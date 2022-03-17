@@ -20,16 +20,16 @@
 7. [less](https://www.npmjs.com/package/less)
 8. [tone](https://www.npmjs.com/package/tone)
 9. [react](https://www.npmjs.com/package/react)
+10. [mocha](https://www.npmjs.com/package/mocha)
 
 ### Software Engineering 🔣
-10. [log](https://www.npmjs.com/package/log)
-11. [axios](https://www.npmjs.com/package/axios)
-12. [async](https://www.npmjs.com/package/async)
+11. [log](https://www.npmjs.com/package/log)
+12. [axios](https://www.npmjs.com/package/axios)
+13. [async](https://www.npmjs.com/package/async)
+14. [dbd.db](https://www.npmjs.com/package/dbd.db)
 
 ---
 
-13. [mocha](https://www.npmjs.com/package/mocha)
-14. [dbd.db](https://www.npmjs.com/package/dbd.db)
 15. [cesium](https://www.npmjs.com/package/cesium)
 16. [inquirer](https://www.npmjs.com/package/inquirer)
 17. [threeify](https://www.npmjs.com/package/threeify)
