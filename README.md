@@ -17,17 +17,17 @@
 6. [cesium](https://www.npmjs.com/package/cesium)
 
 ### Web Development 🌐
-6. [rxjs](https://www.npmjs.com/package/rxjs)
-7. [less](https://www.npmjs.com/package/less)
-8. [tone](https://www.npmjs.com/package/tone)
-9. [react](https://www.npmjs.com/package/react)
-10. [mocha](https://www.npmjs.com/package/mocha)
+7. [rxjs](https://www.npmjs.com/package/rxjs)
+8. [less](https://www.npmjs.com/package/less)
+9. [tone](https://www.npmjs.com/package/tone)
+10. [react](https://www.npmjs.com/package/react)
+11. [mocha](https://www.npmjs.com/package/mocha)
 
 ### Software Engineering 🔣
-11. [log](https://www.npmjs.com/package/log)
-12. [axios](https://www.npmjs.com/package/axios)
-13. [async](https://www.npmjs.com/package/async)
-14. [dbd.db](https://www.npmjs.com/package/dbd.db)
+12. [log](https://www.npmjs.com/package/log)
+13. [axios](https://www.npmjs.com/package/axios)
+14. [async](https://www.npmjs.com/package/async)
+15. [dbd.db](https://www.npmjs.com/package/dbd.db)
 
 ---
 16. [inquirer](https://www.npmjs.com/package/inquirer)
