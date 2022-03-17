@@ -15,21 +15,21 @@
 ### Blockchain ₿
 
 ### Data Science 📊
-6. [d3-3d](https://www.npmjs.com/package/d3-3d)
-7. [cesium](https://www.npmjs.com/package/cesium)
+7. [d3-3d](https://www.npmjs.com/package/d3-3d)
+8. [cesium](https://www.npmjs.com/package/cesium)
 
 ### Web Development 🌐
-8. [rxjs](https://www.npmjs.com/package/rxjs)
-9. [less](https://www.npmjs.com/package/less)
-10. [tone](https://www.npmjs.com/package/tone)
-11. [react](https://www.npmjs.com/package/react)
-12. [mocha](https://www.npmjs.com/package/mocha)
+9. [rxjs](https://www.npmjs.com/package/rxjs)
+10. [less](https://www.npmjs.com/package/less)
+11. [tone](https://www.npmjs.com/package/tone)
+12. [react](https://www.npmjs.com/package/react)
+13. [mocha](https://www.npmjs.com/package/mocha)
 
 ### Software Engineering 🔣
-13. [log](https://www.npmjs.com/package/log)
-14. [axios](https://www.npmjs.com/package/axios)
-15. [async](https://www.npmjs.com/package/async)
-16. [dbd.db](https://www.npmjs.com/package/dbd.db)
+14. [log](https://www.npmjs.com/package/log)
+15. [axios](https://www.npmjs.com/package/axios)
+16. [async](https://www.npmjs.com/package/async)
+17. [dbd.db](https://www.npmjs.com/package/dbd.db)
 
 --- 
 18. [express](https://www.npmjs.com/package/express)
