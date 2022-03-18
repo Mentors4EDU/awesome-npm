@@ -2,6 +2,7 @@
 
 ### IT 🧑‍💻
 1. [inquirer](https://www.npmjs.com/package/inquirer)
+2. [shell-quote](https://www.npmjs.com/package/shell-quote)
 
 ### DevOps ⌨️
 2. [debug](https://www.npmjs.com/package/debug)
@@ -17,6 +18,7 @@
 ### Data Science 📊
 7. [d3-3d](https://www.npmjs.com/package/d3-3d)
 8. [cesium](https://www.npmjs.com/package/cesium)
+9. [quora-api](https://www.npmjs.com/package/quora-api)
 
 ### Web Development 🌐
 9. [rxjs](https://www.npmjs.com/package/rxjs)
@@ -35,8 +37,6 @@
 
 ---  
 
-20. [quora-api](https://www.npmjs.com/package/quora-api)
-21. [shell-quote](https://www.npmjs.com/package/shell-quote)
 22. [photoswipe](https://www.npmjs.com/package/photoswipe)
 23. [vis-network](https://www.npmjs.com/package/vis-network)
 24. [escrow-bitcoin](https://www.npmjs.com/package/escrow-bitcoin)
