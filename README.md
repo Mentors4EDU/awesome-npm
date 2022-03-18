@@ -30,11 +30,11 @@
 17. [photoswipe](https://www.npmjs.com/package/photoswipe)
 
 ### Software Engineering 🔣
-17. [log](https://www.npmjs.com/package/log)
-18. [axios](https://www.npmjs.com/package/axios)
-19. [async](https://www.npmjs.com/package/async)
-20. [dbd.db](https://www.npmjs.com/package/dbd.db)
-21. [minimist](https://www.npmjs.com/package/minimist) 
+18. [log](https://www.npmjs.com/package/log)
+19. [axios](https://www.npmjs.com/package/axios)
+20. [async](https://www.npmjs.com/package/async)
+21. [dbd.db](https://www.npmjs.com/package/dbd.db)
+22. [minimist](https://www.npmjs.com/package/minimist) 
 
 ---  
 
