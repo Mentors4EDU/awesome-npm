@@ -27,6 +27,7 @@
 14. [react](https://www.npmjs.com/package/react)
 15. [mocha](https://www.npmjs.com/package/mocha)
 16. [express](https://www.npmjs.com/package/express)
+17. [photoswipe](https://www.npmjs.com/package/photoswipe)
 
 ### Software Engineering 🔣
 17. [log](https://www.npmjs.com/package/log)
@@ -37,7 +38,6 @@
 
 ---  
 
-22. [photoswipe](https://www.npmjs.com/package/photoswipe)
 23. [vis-network](https://www.npmjs.com/package/vis-network)
 24. [escrow-bitcoin](https://www.npmjs.com/package/escrow-bitcoin)
 25. [quantum-circuit](https://www.npmjs.com/package/quantum-circuit)
