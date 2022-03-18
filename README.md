@@ -19,6 +19,7 @@
 8. [d3-3d](https://www.npmjs.com/package/d3-3d)
 9. [cesium](https://www.npmjs.com/package/cesium)
 10. [quora-api](https://www.npmjs.com/package/quora-api)
+11. [vis-network](https://www.npmjs.com/package/vis-network)
 
 ### Web Development 🌐
 11. [rxjs](https://www.npmjs.com/package/rxjs)
@@ -38,7 +39,6 @@
 
 ---  
 
-23. [vis-network](https://www.npmjs.com/package/vis-network)
 24. [escrow-bitcoin](https://www.npmjs.com/package/escrow-bitcoin)
 25. [quantum-circuit](https://www.npmjs.com/package/quantum-circuit)
 26. [rpc-websockets](https://www.npmjs.com/package/rpc-websockets)
