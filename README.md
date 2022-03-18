@@ -5,35 +5,35 @@
 2. [shell-quote](https://www.npmjs.com/package/shell-quote)
 
 ### DevOps ⌨️
-2. [debug](https://www.npmjs.com/package/debug)
-3. [shelljs](https://www.npmjs.com/package/shelljs)
+3. [debug](https://www.npmjs.com/package/debug)
+4. [shelljs](https://www.npmjs.com/package/shelljs)
 
 ### Software 💽
-4. [colors](https://www.npmjs.com/package/colors)
-5. [croppr](https://www.npmjs.com/package/croppr)
-6. [threeify](https://www.npmjs.com/package/threeify)
+5. [colors](https://www.npmjs.com/package/colors)
+6. [croppr](https://www.npmjs.com/package/croppr)
+7. [threeify](https://www.npmjs.com/package/threeify)
 
 ### Blockchain ₿
 
 ### Data Science 📊
-7. [d3-3d](https://www.npmjs.com/package/d3-3d)
-8. [cesium](https://www.npmjs.com/package/cesium)
-9. [quora-api](https://www.npmjs.com/package/quora-api)
+8. [d3-3d](https://www.npmjs.com/package/d3-3d)
+9. [cesium](https://www.npmjs.com/package/cesium)
+10. [quora-api](https://www.npmjs.com/package/quora-api)
 
 ### Web Development 🌐
-9. [rxjs](https://www.npmjs.com/package/rxjs)
-10. [less](https://www.npmjs.com/package/less)
-11. [tone](https://www.npmjs.com/package/tone)
-12. [react](https://www.npmjs.com/package/react)
-13. [mocha](https://www.npmjs.com/package/mocha)
-14. [express](https://www.npmjs.com/package/express)
+11. [rxjs](https://www.npmjs.com/package/rxjs)
+12. [less](https://www.npmjs.com/package/less)
+13. [tone](https://www.npmjs.com/package/tone)
+14. [react](https://www.npmjs.com/package/react)
+15. [mocha](https://www.npmjs.com/package/mocha)
+16. [express](https://www.npmjs.com/package/express)
 
 ### Software Engineering 🔣
-15. [log](https://www.npmjs.com/package/log)
-16. [axios](https://www.npmjs.com/package/axios)
-17. [async](https://www.npmjs.com/package/async)
-18. [dbd.db](https://www.npmjs.com/package/dbd.db)
-19. [minimist](https://www.npmjs.com/package/minimist) 
+17. [log](https://www.npmjs.com/package/log)
+18. [axios](https://www.npmjs.com/package/axios)
+19. [async](https://www.npmjs.com/package/async)
+20. [dbd.db](https://www.npmjs.com/package/dbd.db)
+21. [minimist](https://www.npmjs.com/package/minimist) 
 
 ---  
 
