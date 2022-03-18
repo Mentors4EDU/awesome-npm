@@ -14,32 +14,32 @@
 7. [threeify](https://www.npmjs.com/package/threeify)
 
 ### Blockchain ₿
+8. [escrow-bitcoin](https://www.npmjs.com/package/escrow-bitcoin)
 
 ### Data Science 📊
-8. [d3-3d](https://www.npmjs.com/package/d3-3d)
-9. [cesium](https://www.npmjs.com/package/cesium)
-10. [quora-api](https://www.npmjs.com/package/quora-api)
-11. [vis-network](https://www.npmjs.com/package/vis-network)
+9. [d3-3d](https://www.npmjs.com/package/d3-3d)
+10. [cesium](https://www.npmjs.com/package/cesium)
+11. [quora-api](https://www.npmjs.com/package/quora-api)
+12. [vis-network](https://www.npmjs.com/package/vis-network)
 
 ### Web Development 🌐
-11. [rxjs](https://www.npmjs.com/package/rxjs)
-12. [less](https://www.npmjs.com/package/less)
-13. [tone](https://www.npmjs.com/package/tone)
-14. [react](https://www.npmjs.com/package/react)
-15. [mocha](https://www.npmjs.com/package/mocha)
-16. [express](https://www.npmjs.com/package/express)
-17. [photoswipe](https://www.npmjs.com/package/photoswipe)
+13. [rxjs](https://www.npmjs.com/package/rxjs)
+14. [less](https://www.npmjs.com/package/less)
+15. [tone](https://www.npmjs.com/package/tone)
+16. [react](https://www.npmjs.com/package/react)
+17. [mocha](https://www.npmjs.com/package/mocha)
+18. [express](https://www.npmjs.com/package/express)
+19. [photoswipe](https://www.npmjs.com/package/photoswipe)
 
 ### Software Engineering 🔣
-18. [log](https://www.npmjs.com/package/log)
-19. [axios](https://www.npmjs.com/package/axios)
-20. [async](https://www.npmjs.com/package/async)
-21. [dbd.db](https://www.npmjs.com/package/dbd.db)
-22. [minimist](https://www.npmjs.com/package/minimist) 
+20. [log](https://www.npmjs.com/package/log)
+21. [axios](https://www.npmjs.com/package/axios)
+22. [async](https://www.npmjs.com/package/async)
+23. [dbd.db](https://www.npmjs.com/package/dbd.db)
+24. [minimist](https://www.npmjs.com/package/minimist) 
 
 ---  
 
-24. [escrow-bitcoin](https://www.npmjs.com/package/escrow-bitcoin)
 25. [quantum-circuit](https://www.npmjs.com/package/quantum-circuit)
 26. [rpc-websockets](https://www.npmjs.com/package/rpc-websockets)
 27. [torrent-discovery](https://www.npmjs.com/package/torrent-discovery)
