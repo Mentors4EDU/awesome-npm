@@ -27,13 +27,14 @@
 14. [express](https://www.npmjs.com/package/express)
 
 ### Software Engineering 🔣
-14. [log](https://www.npmjs.com/package/log)
-15. [axios](https://www.npmjs.com/package/axios)
-16. [async](https://www.npmjs.com/package/async)
-17. [dbd.db](https://www.npmjs.com/package/dbd.db)
+15. [log](https://www.npmjs.com/package/log)
+16. [axios](https://www.npmjs.com/package/axios)
+17. [async](https://www.npmjs.com/package/async)
+18. [dbd.db](https://www.npmjs.com/package/dbd.db)
+19. [minimist](https://www.npmjs.com/package/minimist) 
 
 ---  
-19. [minimist](https://www.npmjs.com/package/minimist)
+
 20. [quora-api](https://www.npmjs.com/package/quora-api)
 21. [shell-quote](https://www.npmjs.com/package/shell-quote)
 22. [photoswipe](https://www.npmjs.com/package/photoswipe)
