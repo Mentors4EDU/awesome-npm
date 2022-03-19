@@ -36,11 +36,11 @@
 21. [axios](https://www.npmjs.com/package/axios)
 22. [async](https://www.npmjs.com/package/async)
 23. [dbd.db](https://www.npmjs.com/package/dbd.db)
-24. [minimist](https://www.npmjs.com/package/minimist) 
+24. [minimist](https://www.npmjs.com/package/minimist)
+25. [quantum-circuit](https://www.npmjs.com/package/quantum-circuit)
 
 ---  
 
-25. [quantum-circuit](https://www.npmjs.com/package/quantum-circuit)
 26. [rpc-websockets](https://www.npmjs.com/package/rpc-websockets)
 27. [torrent-discovery](https://www.npmjs.com/package/torrent-discovery)
 28. [js-3d-model-viewer](https://www.npmjs.com/package/js-3d-model-viewer)
