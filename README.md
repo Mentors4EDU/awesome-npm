@@ -30,6 +30,7 @@
 17. [mocha](https://www.npmjs.com/package/mocha)
 18. [express](https://www.npmjs.com/package/express)
 19. [photoswipe](https://www.npmjs.com/package/photoswipe)
+20. [rpc-websockets](https://www.npmjs.com/package/rpc-websockets)
 
 ### Software Engineering 🔣
 20. [log](https://www.npmjs.com/package/log)
@@ -41,7 +42,6 @@
 
 ---  
 
-26. [rpc-websockets](https://www.npmjs.com/package/rpc-websockets)
 27. [torrent-discovery](https://www.npmjs.com/package/torrent-discovery)
 28. [js-3d-model-viewer](https://www.npmjs.com/package/js-3d-model-viewer)
 29. [3d-model-converter](https://www.npmjs.com/package/3d-model-converter)
