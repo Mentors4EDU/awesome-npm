@@ -31,18 +31,18 @@
 18. [express](https://www.npmjs.com/package/express)
 19. [photoswipe](https://www.npmjs.com/package/photoswipe)
 20. [rpc-websockets](https://www.npmjs.com/package/rpc-websockets)
+21. [js-3d-model-viewer](https://www.npmjs.com/package/js-3d-model-viewer)
 
 ### Software Engineering 🔣
-20. [log](https://www.npmjs.com/package/log)
-21. [axios](https://www.npmjs.com/package/axios)
-22. [async](https://www.npmjs.com/package/async)
-23. [dbd.db](https://www.npmjs.com/package/dbd.db)
-24. [minimist](https://www.npmjs.com/package/minimist)
-25. [quantum-circuit](https://www.npmjs.com/package/quantum-circuit)
+21. [log](https://www.npmjs.com/package/log)
+22. [axios](https://www.npmjs.com/package/axios)
+23. [async](https://www.npmjs.com/package/async)
+24. [dbd.db](https://www.npmjs.com/package/dbd.db)
+25. [minimist](https://www.npmjs.com/package/minimist)
+26. [quantum-circuit](https://www.npmjs.com/package/quantum-circuit)
+27. [torrent-discovery](https://www.npmjs.com/package/torrent-discovery)
 
 ---  
 
-27. [torrent-discovery](https://www.npmjs.com/package/torrent-discovery)
-28. [js-3d-model-viewer](https://www.npmjs.com/package/js-3d-model-viewer)
 29. [3d-model-converter](https://www.npmjs.com/package/3d-model-converter)
 30. [escrow-service-generator](https://www.npmjs.com/package/escrow-service-generator)
