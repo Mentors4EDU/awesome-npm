@@ -12,6 +12,7 @@
 5. [colors](https://www.npmjs.com/package/colors)
 6. [croppr](https://www.npmjs.com/package/croppr)
 7. [threeify](https://www.npmjs.com/package/threeify)
+8. [3d-model-converter](https://www.npmjs.com/package/3d-model-converter)
 
 ### Blockchain ₿
 8. [escrow-bitcoin](https://www.npmjs.com/package/escrow-bitcoin)
@@ -43,6 +44,4 @@
 27. [torrent-discovery](https://www.npmjs.com/package/torrent-discovery)
 
 ---  
-
-29. [3d-model-converter](https://www.npmjs.com/package/3d-model-converter)
 30. [escrow-service-generator](https://www.npmjs.com/package/escrow-service-generator)
