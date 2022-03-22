@@ -8,8 +8,9 @@
 5. [tcp-port-used](https://www.npmjs.com/package/tcp-port-used)
 
 ### DevOps ⌨️
-6. [debug](https://www.npmjs.com/package/debug)
-7. [shelljs](https://www.npmjs.com/package/shelljs)
+6. [bolt](https://www.npmjs.com/package/bolt)
+7. [debug](https://www.npmjs.com/package/debug)
+8. [shelljs](https://www.npmjs.com/package/shelljs)
 
 ### Software 💽
 8. [colors](https://www.npmjs.com/package/colors)
