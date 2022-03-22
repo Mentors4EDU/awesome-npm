@@ -20,7 +20,9 @@
 ### Blockchain ₿
 12. [agoric](https://www.npmjs.com/package/agoric)
 13. [escrow-bitcoin](https://www.npmjs.com/package/escrow-bitcoin)
-14. [escrow-service-generator](https://www.npmjs.com/package/escrow-service-generator)
+14. [cloutcontracts-api](https://www.npmjs.com/package/cloutcontracts-api)
+15. [eth-gas-reporter](https://www.npmjs.com/package/eth-gas-reporter)
+16. [escrow-service-generator](https://www.npmjs.com/package/escrow-service-generator)
 
 ### Data Science 📊
 15. [d3-3d](https://www.npmjs.com/package/d3-3d)
@@ -43,7 +45,9 @@
 28. [log](https://www.npmjs.com/package/log)
 29. [axios](https://www.npmjs.com/package/axios)
 30. [async](https://www.npmjs.com/package/async)
-31. [dbd.db](https://www.npmjs.com/package/dbd.db)
-32. [minimist](https://www.npmjs.com/package/minimist)
-33. [quantum-circuit](https://www.npmjs.com/package/quantum-circuit)
-34. [torrent-discovery](https://www.npmjs.com/package/torrent-discovery)
+31. [stacks](https://www.npmjs.com/package/stacks)
+32. [dbd.db](https://www.npmjs.com/package/dbd.db)
+33. [minimist](https://www.npmjs.com/package/minimist)
+34. [quantum-circuit](https://www.npmjs.com/package/quantum-circuit)
+35. [torrent-discovery](https://www.npmjs.com/package/torrent-discovery)
+36. [decentralized-internet](https://www.npmjs.com/package/decentralized-internet)
