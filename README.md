@@ -22,10 +22,11 @@
 13. [hardhat](https://www.npmjs.com/package/hardhat)
 14. [avalanche](https://www.npmjs.com/package/avalanche)
 15. [escrow-bitcoin](https://www.npmjs.com/package/escrow-bitcoin)
-16. [polkadot-launch](https://www.npmjs.com/package/polkadot-launch)
-17. [eth-gas-reporter](https://www.npmjs.com/package/eth-gas-reporter)
-18. [cloutcontracts-api](https://www.npmjs.com/package/cloutcontracts-api)
-19. [escrow-service-generator](https://www.npmjs.com/package/escrow-service-generator)
+16. [bitcoin-chart-cli](https://www.npmjs.com/package/bitcoin-chart-cli)
+17. [polkadot-launch](https://www.npmjs.com/package/polkadot-launch)
+18. [eth-gas-reporter](https://www.npmjs.com/package/eth-gas-reporter)
+19. [cloutcontracts-api](https://www.npmjs.com/package/cloutcontracts-api)
+20. [escrow-service-generator](https://www.npmjs.com/package/escrow-service-generator)
 
 ### Data Science 📊
 20. [d3-3d](https://www.npmjs.com/package/d3-3d)
