@@ -5,6 +5,7 @@
 2. [net-snmp](https://www.npmjs.com/package/net-snmp)
 3. [websocket](https://www.npmjs.com/package/websocket) 
 4. [shell-quote](https://www.npmjs.com/package/shell-quote)
+5. [tcp-port-used](https://www.npmjs.com/package/tcp-port-used)
 
 ### DevOps ⌨️
 5. [debug](https://www.npmjs.com/package/debug)
