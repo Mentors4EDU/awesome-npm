@@ -27,7 +27,8 @@
 18. [polkadot-launch](https://www.npmjs.com/package/polkadot-launch)
 19. [eth-gas-reporter](https://www.npmjs.com/package/eth-gas-reporter)
 20. [cloutcontracts-api](https://www.npmjs.com/package/cloutcontracts-api)
-21. [escrow-service-generator](https://www.npmjs.com/package/escrow-service-generator)
+21. [@toruslabs/torus-embed](https://www.npmjs.com/package/@toruslabs/torus-embed)
+22. [escrow-service-generator](https://www.npmjs.com/package/escrow-service-generator)
 
 ### Data Science 📊
 22. [d3-3d](https://www.npmjs.com/package/d3-3d)
