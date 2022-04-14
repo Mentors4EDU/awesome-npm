@@ -11,8 +11,9 @@
 6. [bolt](https://www.npmjs.com/package/bolt)
 7. [debug](https://www.npmjs.com/package/debug)
 8. [shelljs](https://www.npmjs.com/package/shelljs)
-9. [winston](https://www.npmjs.com/package/winston)
-10. [sysadmin](https://www.npmjs.com/package/sysadmin)
+9. [appium](https://www.npmjs.com/package/appium)
+10. [winston](https://www.npmjs.com/package/winston)
+11. [sysadmin](https://www.npmjs.com/package/sysadmin)
 
 ### Software 💽
 11. [colors](https://www.npmjs.com/package/colors)
